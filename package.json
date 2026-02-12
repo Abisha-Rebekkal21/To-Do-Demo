@@ -1,0 +1,18 @@
+{
+  "name": "to-do-demo",
+  "version": "1.0.0",
+  "description": "A simple task manager application",
+  "main": "index.html",
+  "scripts": {
+    "start": "echo Server ready to serve index.html",
+    "build": "echo Build complete - static HTML project",
+    "test": "echo No tests configured"
+  },
+  "keywords": [
+    "todo",
+    "task-manager",
+    "javascript"
+  ],
+  "author": "Abisha Rebekkal T",
+  "license": "MIT"
+}
